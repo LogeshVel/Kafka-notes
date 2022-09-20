@@ -5,6 +5,11 @@ Contains some Kafka notes
 
 [Kafka - Linode docs](https://www.linode.com/docs/guides/what-is-apache-kafka/)
 
+**Zookeeper : localhost:2181**
+
+**Kafak Broker(Server) : localhost:9092**
+
+
 ![image](https://user-images.githubusercontent.com/69865283/190451461-81a175cd-ca2d-4fa9-a160-229c05159a57.png)
 
 
